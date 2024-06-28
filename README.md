@@ -10,6 +10,7 @@ Before we get started, please:
 2. Install Visual Studio Code: [code.visualstudio.com](https://code.visualstudio.com/)
 3. Install Git, following these instructions: [git-scm.com/download](https://git-scm.com/download)
 4. Visit my **webpage** by going to [this link](https://shiaminkwa.digital.brynmawr.edu/ShiaminKwa/)
+5. Make some kind of change that you don't need in order to make a pull request!
 
 ## Versioning Vocabulary
 
