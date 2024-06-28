@@ -1,4 +1,4 @@
-# Workshop: Git, GitHub, Markdown with edits made as part of the assignment
+# Workshop: Git, GitHub, Markdown with **edits** made as part of the assignment
 
 [Link to presentation](https://alicemcgrath.digital.brynmawr.edu/pres/git-hub.html)
 
